@@ -1,1 +1,1 @@
-export const BACKEND_URI = "http://localhost:5555";
+export const BACKEND_URI = "https://pawbackend.onrender.com";
